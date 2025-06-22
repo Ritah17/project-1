@@ -58,4 +58,4 @@ Key finding
 Conclusion
 This analysis helps job seekers understand how role type, seniority, and location impact salary. It also guides employers on competitive compensation across the Canadian data science market.
 
-Download Excel dashboard here 
+Download Excel dashboard here https://github.com/Ritah17/project-1/commit/acf69421f4a3b4e25622eb54d12cae889d6af646
